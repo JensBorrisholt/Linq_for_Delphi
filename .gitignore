@@ -1,0 +1,52 @@
+# Delphi compiler output
+*.dcu
+*.dcp
+*.bpl
+*.bpi
+*.exe
+*.dll
+*.ocx
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.hpp
+*.h
+*.drc
+*.map
+*.tds
+*.rsm
+*.local
+*.identcache
+*.stat
+
+# Delphi IDE user-specific files and history
+*.dsk
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.local
+__history/
+__recovery/
+*.~*
+
+# Build output directories
+Win32/
+Win64/
+OSX32/
+OSX64/
+Linux64/
+Android/
+iOSDevice64/
+iOSSimulator/
+
+# Common IDE/editor files
+.idea/
+.vscode/
+*.bak
+*.tmp
+*.orig
+.DS_Store
+Thumbs.db
